@@ -35,6 +35,9 @@ Empowering businesses to make smarter, data-driven decisions that enhance both p
 
 [![LinkedIn](https://img.shields.io/badge/-Mary%20Rabago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mary-rabago)](https://www.linkedin.com/in/mary-rabago)
 
+maryellanrabago@gmail.com
+
+
 ---
 
 _“Numbers tell a story—let's uncover the insights together!”_
