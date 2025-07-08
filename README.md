@@ -1,16 +1,41 @@
 ## Hi there 👋
+## 👩‍💻 About Me
 
-<!--
-**maryrabago/maryrabago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently honing my Business Intelligence Analyst skills after completing a bootcamp with TripleTen. With hands-on experience in operations management at The Home Depot, I bring a unique blend of business acumen and data analytics to every project.
 
-Here are some ideas to get you started:
+- **Top Skills:**  
+  - SQL  
+  - Python  
+  - Excel  
+  - Google Workspace  
+  - Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Analytical Focus:**  
+  - Retail Analytics  
+  - Data Visualization  
+  - Process Optimization  
+  - Customer Experience
+
+---
+
+## 🚀 What I'm Working On
+
+- Developing practical BI projects to bridge business goals and actionable insights
+- Exploring new ways to leverage data for operational excellence in retail environments
+
+---
+
+## 📈 My Mission
+
+Empowering businesses to make smarter, data-driven decisions that enhance both performance and customer satisfaction.
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Mary%20Rabago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mary-rabago)](https://www.linkedin.com/in/mary-rabago)
+
+---
+
+_“Numbers tell a story—let's uncover the insights together!”_
+
